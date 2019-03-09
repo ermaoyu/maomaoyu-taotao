@@ -16,6 +16,7 @@
         <module>maomaoyu-manager-interface</module>
         <module>maomaoyu-manager-dao</module>
         <module>maomaoyu-manager-service</module>
+        <module>maomaoyu-manager-service-redis</module>
     </modules>
     <dependencies>
         <dependency>
